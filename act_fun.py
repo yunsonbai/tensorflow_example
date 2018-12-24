@@ -1,5 +1,5 @@
 import matplotlib
-matplotlib.use('TkAgg')
+matplotlib.use('TkAgg')  # 解决mac画图报错问题
 import matplotlib.pyplot as plt
 import numpy as np
 
